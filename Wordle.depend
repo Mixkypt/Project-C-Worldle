@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677317989 source:d:\mixky\code\project c++\wordle\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<fstream>
+
